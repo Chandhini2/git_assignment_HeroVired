@@ -25,9 +25,9 @@ class Calculator:
 
 # TODO: Implement the following function to calculate the square root of a number.
 
-    # def square_root(self, x):
+    def square_root(self, x):
 
-        # return math.sqrt(x)
+        return math.sqrt(x)
 
 # You need to uncomment the above function and complete its implementation to add the square root feature.
 
